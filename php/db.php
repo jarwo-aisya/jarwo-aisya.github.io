@@ -1,5 +1,5 @@
 <?php
-    $servername='localhost';
+    $servername='https://jarwo-aisya.github.io/';
     $username='root';
     $password='';
     $dbname = "undangan";
